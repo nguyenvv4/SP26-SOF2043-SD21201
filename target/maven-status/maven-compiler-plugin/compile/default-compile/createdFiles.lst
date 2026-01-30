@@ -1,5 +1,11 @@
 poly/cafe/ui/DrinkJDialog$2$1.class
 poly/cafe/dao/impl/DrinkDAOImpl.class
+poly/cafe/ui/StudentForm.class
+poly/cafe/entity/Student.class
+poly/cafe/dao/impl/StudentDAOImpl.class
+poly/cafe/entity/Student$StudentBuilder.class
+poly/cafe/ui/StudentForm$1.class
 poly/cafe/dao/DrinkDAO.class
+poly/cafe/dao/StudentDAO.class
 poly/cafe/ui/DrinkJDialog$2.class
 poly/cafe/ui/manager/DrinkController.class
