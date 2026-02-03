@@ -101,6 +101,18 @@ public class Student {
         this.studentCode = studentCode;
     }
 
+    public Student(String className, String email, String fullName, String gender, String major, String phone, String studentCode) {
+        this.className = className;
+        this.email = email;
+        this.fullName = fullName;
+        this.gender = gender;
+        this.major = major;
+        this.phone = phone;
+        this.studentCode = studentCode;
+    }
+
+    
+    
     @Override
     public String toString() {
         return "Student{" + "id=" + id + ", className=" + className + ", email=" + email + ", fullName=" + fullName + ", gender=" + gender + ", major=" + major + ", phone=" + phone + ", studentCode=" + studentCode + '}';
